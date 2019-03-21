@@ -1,0 +1,4 @@
+-käyttäjä voi lisätä tietokantaan kirjan
+-käyttäjä voi lisätä kirjalle hahmon
+-käyttäjä voi lisätä kirjoja ja hahmoja suosikeikseen
+-käyttäjä voi muokata kirjojen ja hahmojen tietoja
